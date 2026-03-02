@@ -1,44 +1,14 @@
 👩🏻‍💻 Tamara Prussak
 
-Data & AI Annotation Specialist | Systems Analyst | AI Model Evaluation
+**Data & AI Annotation Specialist | Systems Analyst | AI Model Evaluation**
 
 I am a Data & AI Annotation Specialist with a multidisciplinary background in Psychology, Marketing, and Systems Analysis.
 
-I hold a Bachelor's degree in Psychology, an MBA in Marketing, and a Technical Certificate in Systems Analysis. My academic and professional background allows me to combine analytical thinking, business strategy, and technical expertise.
+I hold a Bachelor's degree in Psychology, an MBA in Marketing, and a Technical Certificate in Systems Analysis. My work focuses on AI model evaluation, data quality assurance, and large language model (LLM) performance optimization.
 
-I have experience working with product catalog systems (PC, EPC, MEC), OMS, CRM platforms, SQL databases, and data management environments.
+I contribute to AI development through structured data annotation, NLP dataset evaluation, LLM response analysis, bias detection, and model output validation.
 
-🤖 AI & Data Experience
-
-I have professional experience as a Data Annotator, contributing to AI model development through:
-
-Data labeling and structured annotation
-
-NLP dataset evaluation
-
-LLM response evaluation and prompt analysis
-
-Model output quality assessment
-
-Bias and inconsistency detection
-
-Data quality assurance (QA)
-
-Validation of training and testing datasets
-
-Currently, I work as a Data & AI Annotation Specialist, supporting machine learning and large language model (LLM) optimization by:
-
-Evaluating model performance
-
-Reviewing prompt-response alignment
-
-Identifying hallucinations and edge cases
-
-Improving dataset accuracy and reliability
-
-Contributing to continuous model refinement
-
-My work directly supports AI training pipelines and model performance improvement.
+Currently, I support machine learning pipelines by improving dataset accuracy, reviewing prompt-response alignment, identifying edge cases, and contributing to continuous model refinement.
 
 I am passionate about Artificial Intelligence, data quality, and continuous learning.
 
@@ -52,18 +22,3 @@ I am passionate about Artificial Intelligence, data quality, and continuous lear
 
 <br/><br/>
 
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Prussak&show_icons=true&theme=tokyonight"
-  />
-</p>
-
-<p align="left">
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prussak&layout=compact&theme=tokyonight"
-  />
-</p>
