@@ -22,9 +22,7 @@ I am passionate about Artificial Intelligence, data quality, and continuous lear
 
 <br/><br/>
 
-[![3D Contributions](https://raw.githubusercontent.com/Prussak/Prussak/main/output-3d-contrib/profile-night-rainbow.svg)](https://github.com/Prussak)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Prussak&column=-1&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 | [![Tamara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prussak&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Prussak&theme=tokyonight&hide_border=true&mode=weekly&exclude_days=Sat%2CSun)](https://github.com/DenverCoder1/github-readme-streak-stats) |
 | --- | --- |
